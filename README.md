@@ -16,3 +16,6 @@ This is a cool calculator I made using HTML, CSS, and JavaScript. 🌟
 ## Why I Made This:
 I’m learning web development, and this project helps me practice building websites and using JavaScript. 🚀
 
+## Screenshot
+
+![Calculator Screenshot](calculator.screenshot.png)
