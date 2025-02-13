@@ -18,4 +18,4 @@ I’m learning web development, and this project helps me practice building webs
 
 ## Screenshot
 
-![Calculator Screenshot](calculator.screenshot.png)
+![Calculator Screenshot](calculator.screenshot.PNG)
